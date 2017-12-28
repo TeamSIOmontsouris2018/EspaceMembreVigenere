@@ -1,0 +1,6 @@
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenere\TeamVigenere\bin\Debug\TeamVigenere.exe.config
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenere\TeamVigenere\bin\Debug\TeamVigenere.exe
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenere\TeamVigenere\bin\Debug\TeamVigenere.pdb
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenere\TeamVigenere\obj\Debug\TeamVigenere.exe
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenere\TeamVigenere\obj\Debug\TeamVigenere.pdb
+C:\Users\Elias\Documents\Visual Studio 2015\Projects\TeamVigenere\TeamVigenere\obj\Debug\TeamVigenere.csprojResolveAssemblyReference.cache
