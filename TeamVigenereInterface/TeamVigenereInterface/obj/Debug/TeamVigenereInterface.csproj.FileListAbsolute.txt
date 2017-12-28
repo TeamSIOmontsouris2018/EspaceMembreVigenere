@@ -1,0 +1,14 @@
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\bin\Debug\TeamVigenereInterface.exe.config
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\bin\Debug\TeamVigenereInterface.exe
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\bin\Debug\TeamVigenereInterface.pdb
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\MainWindow.g.cs
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\App.g.cs
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface_MarkupCompile.cache
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface_MarkupCompile.lref
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\MainWindow.baml
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface.g.resources
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface.exe
+c:\users\elias\documents\visual studio 2015\Projects\TeamVigenereInterface\TeamVigenereInterface\obj\Debug\TeamVigenereInterface.pdb
